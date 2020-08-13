@@ -37,7 +37,7 @@
         tools:text="This is Lenovo Thinkpad." />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/btnPrevious"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Previous"
@@ -50,7 +50,7 @@
         app:layout_constraintVertical_bias="0.96" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/btnNext"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Next"
